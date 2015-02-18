@@ -82,7 +82,7 @@ for graphFormat in format:
 
 	if name == '':
 		# print('Done!')
-		newFile = open(argv[1] + "_DATA.txt", "w")
+		newFile = open(argv[1] + "database.mplot", "w")
 		newFile.write(json.dumps(dictionary))
 		newFile.close()
 		print "Done!"

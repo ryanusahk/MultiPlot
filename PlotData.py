@@ -7,7 +7,7 @@ import glob
 import os
 import json
 
-tempFile = open('growthdata.mbiome').read()
+tempFile = open('database.mplot').read()
 master = json.loads(tempFile)
 
 def getListPlots():

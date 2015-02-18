@@ -12,6 +12,10 @@ Manage and visualize 96 well plate growth data
 * Supports blanks
 * Plot single or multiple datasets together
 
+###Sample Plot
+(Not actual data!)
+![Alt text](https://github.com/ryanusahk/MultiPlot/blob/master/E.Coli%20Growth%20Data.png "Optional title")
+
 ###Usage
 ExtractData.py takes in standard ASCII formatted 96 plate reader data and outputs a .json formatted .mplot database file.
 

@@ -1,5 +1,5 @@
 # MultiPlot
-Manage and visualize 96 well data plate growth data
+Manage and visualize 96 well plate growth data
 
 ###Requirements
 - Python 2.6+

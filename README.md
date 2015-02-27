@@ -9,7 +9,7 @@ Manage and visualize 96 well plate growth data
 ###Functions
 * Organize entire 96 well plate growth datasets easily
 * Supports replicates, and errorbars (by 1 standard deviation)
-* Supports blanks
+* Supports dynamic blanks
 * Plot single or multiple datasets together
 
 ###Sample Plot
